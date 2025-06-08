@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+main{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+section{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
